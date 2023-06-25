@@ -1,0 +1,15 @@
+D:\FinalLast\Tusk\bin\Debug\net7.0\Tusk.exe
+D:\FinalLast\Tusk\bin\Debug\net7.0\Tusk.deps.json
+D:\FinalLast\Tusk\bin\Debug\net7.0\Tusk.runtimeconfig.json
+D:\FinalLast\Tusk\bin\Debug\net7.0\Tusk.dll
+D:\FinalLast\Tusk\bin\Debug\net7.0\Tusk.pdb
+D:\FinalLast\Tusk\obj\Debug\net7.0\Tusk.csproj.AssemblyReference.cache
+D:\FinalLast\Tusk\obj\Debug\net7.0\Tusk.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalLast\Tusk\obj\Debug\net7.0\Tusk.AssemblyInfoInputs.cache
+D:\FinalLast\Tusk\obj\Debug\net7.0\Tusk.AssemblyInfo.cs
+D:\FinalLast\Tusk\obj\Debug\net7.0\Tusk.csproj.CoreCompileInputs.cache
+D:\FinalLast\Tusk\obj\Debug\net7.0\Tusk.dll
+D:\FinalLast\Tusk\obj\Debug\net7.0\refint\Tusk.dll
+D:\FinalLast\Tusk\obj\Debug\net7.0\Tusk.pdb
+D:\FinalLast\Tusk\obj\Debug\net7.0\Tusk.genruntimeconfig.cache
+D:\FinalLast\Tusk\obj\Debug\net7.0\ref\Tusk.dll
